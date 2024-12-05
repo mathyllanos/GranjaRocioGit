@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      undertale-hang-in-there-yl-2560x1080_0: -2811852708348357885
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
