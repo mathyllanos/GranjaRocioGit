@@ -5,10 +5,10 @@ using UnityEngine.EventSystems;
 
 public class AguaPlantas : MonoBehaviour
 {
-   [SerializeField] private int CantidadAgua;
+    public int CantidadAgua;
 
-    public Image bar;
-    public Text texto;
+   [SerializeField] private Image bar;
+   [SerializeField] private Text texto;
     
     
 
@@ -34,11 +34,15 @@ public class AguaPlantas : MonoBehaviour
                }
            }
            //Decrementa el fillAmount,al mismo tiempo decrementando el valor de la CantidadAgua
-           if (Input.GetKeyDown(KeyCode.A) && bar.fillAmount != 0f)
-           {                     
-               bar.fillAmount -= 0.25f;
-               CantidadAgua = Mathf.RoundToInt(bar.fillAmount * 100);
-           }
+
+     
+               if (Input.GetKeyDown(KeyCode.E) && bar.fillAmount != 0f)
+               {                     
+                   bar.fillAmount -= 0.25f;
+                   CantidadAgua = Mathf.RoundToInt(bar.fillAmount * 100);
+               }
+           
+           
     }
    
 }
