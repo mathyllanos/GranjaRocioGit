@@ -11,8 +11,8 @@ public class PlayerController: MonoBehaviour
 
     
 
-    //Bariables
-    public Rigidbody2D rb;
+    //Variables
+    private Rigidbody2D rb;
     public float speed = 5f;
     private Vector2 _input;
     
