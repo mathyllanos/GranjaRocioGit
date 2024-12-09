@@ -26,6 +26,10 @@ public class PlayerController: MonoBehaviour
         
         _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
        
+
+        if(_input.x != 0 && _input.y != 0) { return; }
+
+
         // Explicacion: Cons estos IF determinan cuando no esta quieto y cuando se estan desplazando.
         if (_input.x != 0  ) 
         
