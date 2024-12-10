@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tile: {fileID: 0}
   type: 0
-  action: 0
+  action: 3
   range: {x: 5, y: 4}
   stackable: 1
   image: {fileID: 4736053884006656834, guid: 5323c557cbec5ef4989577285d5a3671, type: 3}

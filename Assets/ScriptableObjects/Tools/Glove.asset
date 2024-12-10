@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Glove
   m_EditorClassIdentifier: 
   tile: {fileID: 0}
-  type: 0
+  type: 1
   action: 0
   range: {x: 5, y: 4}
-  stackable: 1
+  stackable: 0
   image: {fileID: -6888756438569675735, guid: 27803c135b29be04aa4db1af3a047f2e, type: 3}

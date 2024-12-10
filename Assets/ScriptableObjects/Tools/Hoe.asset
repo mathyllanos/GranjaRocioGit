@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Hoe
   m_EditorClassIdentifier: 
   tile: {fileID: 0}
-  type: 2
+  type: 1
   action: 1
   range: {x: 5, y: 4}
-  stackable: 1
+  stackable: 0
   image: {fileID: 2289404896436134278, guid: 563fc384fa7caea42a0093045199372a, type: 3}

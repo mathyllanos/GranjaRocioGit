@@ -27,6 +27,7 @@ public class Item : ScriptableObject
     {
         Glove,
         Hoe,
-        WateringCan
+        WateringCan,
+        Grow
     }
 }

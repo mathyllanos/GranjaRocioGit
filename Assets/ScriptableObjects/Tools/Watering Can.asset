@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Watering Can
   m_EditorClassIdentifier: 
   tile: {fileID: 0}
-  type: 2
+  type: 1
   action: 2
   range: {x: 5, y: 4}
-  stackable: 1
+  stackable: 0
   image: {fileID: 6315382641804869545, guid: 143e88e149e72d84c88a75db1a0c1c4b, type: 3}
