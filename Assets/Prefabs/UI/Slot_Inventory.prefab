@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 4236870388941301060}
   - component: {fileID: 5542843590075340581}
   - component: {fileID: 7417761508117822165}
-  - component: {fileID: 5348992033701682551}
   - component: {fileID: 8378427754956656873}
+  - component: {fileID: 5348992033701682551}
   m_Layer: 5
   m_Name: Slot_Inventory
   m_TagString: Untagged
@@ -77,6 +77,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &8378427754956656873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5455956576471887430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc40543b9bc765c4fafab35416332b64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  image: {fileID: 7417761508117822165}
+  selectedColor: {r: 1, g: 0.3226415, b: 0.3226415, a: 0.5058824}
+  notSelectedColor: {r: 1, g: 1, b: 1, a: 0.21568628}
 --- !u!114 &5348992033701682551
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101,15 +116,3 @@ MonoBehaviour:
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
---- !u!114 &8378427754956656873
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5455956576471887430}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc40543b9bc765c4fafab35416332b64, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
