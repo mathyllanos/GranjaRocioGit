@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8dc4fd7cfaf159f47b35321e81028d5b, type: 3}
-  m_Name: Tomate
+  m_Name: Glove
   m_EditorClassIdentifier: 
   tile: {fileID: 0}
   type: 0
   action: 0
   range: {x: 5, y: 4}
   stackable: 1
-  image: {fileID: -8446820929239352953, guid: 7c8f32df5db3c934cbf12e5021570882, type: 3}
+  image: {fileID: -6888756438569675735, guid: 27803c135b29be04aa4db1af3a047f2e, type: 3}

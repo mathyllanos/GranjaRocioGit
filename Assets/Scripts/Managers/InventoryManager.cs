@@ -19,7 +19,7 @@ public class InventoryManager : MonoBehaviour
         if (Input.inputString != null)
         {
             bool isNumber = int.TryParse(Input.inputString, out int number);
-            if(isNumber && number > 0 && number < 8)
+            if(isNumber && number > 0 && number < 9)
             {
                 ChangeSelectSlot(number - 1);
             }
@@ -38,10 +38,9 @@ public class InventoryManager : MonoBehaviour
         inventorySlots[newValue].Select();
         selectedSlot = newValue;
     }
+
     public bool AddItem(Item item)
     {
-
-
         //Encuentra slot vacio
         for (int i = 0; i < inventorySlots.Length; i++)
         {

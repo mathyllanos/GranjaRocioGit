@@ -20,7 +20,6 @@ public class Item : ScriptableObject
     public enum ItemType
     {
         Vegetable,
-        Fruit,
         Tool
     }
 
