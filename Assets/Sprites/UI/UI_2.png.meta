@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 563fc384fa7caea42a0093045199372a
+guid: 815d540a88e3faa498c36ca3c52eea73
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2289404896436134278
-    second: SPR_Azada_0
+      213: 1022822829255870515
+    second: UI_2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPR_Azada_0
+      name: UI_2_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 0
+        x: 1
+        y: 1
         width: 30
-        height: 32
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 681ad1f9f9995cf10800000000000000
-      internalID: 2289404896436134278
+      spriteID: 338c4fda1fbc13e00800000000000000
+      internalID: 1022822829255870515
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ad697540d817c1040b9624b4a75ef31d
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPR_Azada_0: 2289404896436134278
+      UI_2_0: 1022822829255870515
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
