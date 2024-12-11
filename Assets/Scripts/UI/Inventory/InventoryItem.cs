@@ -4,12 +4,14 @@ using UnityEngine.UI;
 
 public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
+    [Header("Objeto Scriptable")]
+    public Item item;
+
     [Header("UI")]
     public Image image;
     public Text countText;
 
     [HideInInspector] public Transform parentAfterDrag;
-    [HideInInspector] public Item item;
     [HideInInspector] public int count = 1;
 
     public void InitialiseItem(Item newItem)
