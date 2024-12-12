@@ -4,8 +4,11 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Verduras
   - Well
+  - Patata
+  - Zanahoria
+  - Lechuga
+  - Tomate
   layers:
   - Default
   - TransparentFX
