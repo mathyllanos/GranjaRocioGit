@@ -6,9 +6,12 @@ public class Item : ScriptableObject
 {
     [Header("Only gameplay")]
     public TileBase tile;
-    public ItemType type;
     public ActionType action;
     public Vector2Int range = new Vector2Int(5, 4);
+    public int timeGrow;
+
+    [Range(1f, 100f)]
+    public float waterNeeded;
 
     [Header("Only UI")]
     public bool stackable = true;
@@ -16,18 +19,11 @@ public class Item : ScriptableObject
     [Header("Both")]
     public Sprite image;
 
-
-    public enum ItemType
-    {
-        Vegetable,
-        Tool
-    }
-
     public enum ActionType
     {
         Glove,
         Hoe,
         WateringCan,
-        Grow
     }
+
 }

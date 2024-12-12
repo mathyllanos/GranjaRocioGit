@@ -16,5 +16,7 @@ MonoBehaviour:
   type: 0
   action: 3
   range: {x: 5, y: 4}
+  timeGrow: 20
+  waterNeeded: 75
   stackable: 1
   image: {fileID: -8446820929239352953, guid: 7c8f32df5db3c934cbf12e5021570882, type: 3}

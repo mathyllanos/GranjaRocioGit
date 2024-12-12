@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
+    public Item[] startItems;
+
     public int maxStackedItems = 4;
     public InventorySlot[] inventorySlots;
 
@@ -12,6 +14,11 @@ public class InventoryManager : MonoBehaviour
     private void Start()
     {
         ChangeSelectSlot(0);
+
+        foreach (var item in startItems)
+        {
+            AddItem(item);
+        }
     }
 
     private void Update()
@@ -51,6 +58,7 @@ public class InventoryManager : MonoBehaviour
                 itemInSlot.count < maxStackedItems &&
                 itemInSlot.item.stackable == true)
             {
+                SpawnNewItem(item,slot);
                 itemInSlot.count++;
                 itemInSlot.RefreshCount();
                 return true;
