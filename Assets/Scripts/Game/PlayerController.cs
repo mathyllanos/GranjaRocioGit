@@ -15,7 +15,9 @@ public class PlayerController: MonoBehaviour
     private Rigidbody2D rb;
     public float speed = 5f;
     private Vector2 _input;
-    
+    private bool x , y;
+
+
     private void Awake(){rb = GetComponent<Rigidbody2D>();}
 
 
@@ -27,16 +29,50 @@ public class PlayerController: MonoBehaviour
         _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
        
 
-        if(_input.x != 0 && _input.y != 0) { return; }
+        
 
 
         // Explicacion: Cons estos IF determinan cuando no esta quieto y cuando se estan desplazando.
-        if (_input.x != 0  ) 
+
+        if (x == false) 
+        {
+            if (_input.x != 0)
+            {
+
+                rb.transform.Translate(Vector2.right * (speed * _input.x) * Time.deltaTime);
+
+                y = true;
+            }
+            else
+            { 
+            
+            
+                y = false;
+            }
+
+
+        }
+
+
+
+
+        if (y == false)
+        {
+
+            if (_input.y != 0)
+            {
+
+                rb.transform.Translate(Vector2.up * (speed * _input.y) * Time.deltaTime);
+                x = true;
+            }
+            else 
+            { 
+                x = false;
+            }
         
-            rb.transform.Translate(Vector2.right * (speed * _input.x) * Time.deltaTime);
         
-        if (_input.y != 0) 
-         
-            rb.transform.Translate(Vector2.up * (speed * _input.y) * Time.deltaTime); 
+        
+        }
+             
     }
 }

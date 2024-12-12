@@ -10,11 +10,8 @@ public class Misiones : MonoBehaviour
    private float time;
    [SerializeField] private float inter;
    private float ac_time;
-
     private bool Denido;
-   
     public GameObject Aguja;
-
     public int Conteo;
 
 
@@ -57,7 +54,7 @@ public class Misiones : MonoBehaviour
 
     void Start()
     {
-        Invoke("Tiks2", (Duracion / 12));
+        Invoke("Tiks", (Duracion / 24));
     }
 
     void Tiks() 
@@ -76,21 +73,7 @@ public class Misiones : MonoBehaviour
         
     }
 
-    void Tiks2()
-    {
-        if (Conteo < 12)
-        {
-
-            Aguja.transform.Rotate(Vector3.back * 30);
-
-            Conteo++;
-
-
-            Invoke("Tiks", (Duracion / 12));
-        }
-
-
-    }
+    
 
 
     // Update is called once per frame
