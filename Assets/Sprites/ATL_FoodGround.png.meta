@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_0
+      name: GroundDry
       rect:
         serializedVersion: 2
         x: 0
@@ -108,7 +108,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -122,7 +122,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_1
+      name: GroundWet
       rect:
         serializedVersion: 2
         x: 16
@@ -130,7 +130,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_2
+      name: LettuceStage0
       rect:
         serializedVersion: 2
         x: 0
@@ -152,7 +152,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -166,7 +166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_3
+      name: LettuceStage1
       rect:
         serializedVersion: 2
         x: 16
@@ -174,7 +174,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -188,7 +188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_4
+      name: LettuceStage2
       rect:
         serializedVersion: 2
         x: 32
@@ -196,7 +196,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_5
+      name: LettuceStage3
       rect:
         serializedVersion: 2
         x: 48
@@ -218,7 +218,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -232,7 +232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_6
+      name: PotatoStage0
       rect:
         serializedVersion: 2
         x: 0
@@ -240,7 +240,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -254,7 +254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_7
+      name: PotatoStage1
       rect:
         serializedVersion: 2
         x: 16
@@ -262,7 +262,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_8
+      name: PotatoStage2
       rect:
         serializedVersion: 2
         x: 32
@@ -284,7 +284,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -298,7 +298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_9
+      name: PotatoStage3
       rect:
         serializedVersion: 2
         x: 48
@@ -306,7 +306,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_10
+      name: CarrotStage0
       rect:
         serializedVersion: 2
         x: 0
@@ -328,7 +328,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -342,7 +342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_11
+      name: CarrotStage1
       rect:
         serializedVersion: 2
         x: 16
@@ -350,7 +350,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -364,7 +364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_12
+      name: CarrotStage2
       rect:
         serializedVersion: 2
         x: 32
@@ -372,7 +372,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -386,7 +386,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_13
+      name: CarrotStage3
       rect:
         serializedVersion: 2
         x: 48
@@ -394,7 +394,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -408,7 +408,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_14
+      name: TomatoStage0
       rect:
         serializedVersion: 2
         x: 0
@@ -416,7 +416,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -430,7 +430,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_15
+      name: TomatoStage1
       rect:
         serializedVersion: 2
         x: 16
@@ -438,7 +438,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -452,7 +452,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_16
+      name: TomatoStage2
       rect:
         serializedVersion: 2
         x: 32
@@ -460,7 +460,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VegetablesGroundAtlas_17
+      name: TomatoStage3
       rect:
         serializedVersion: 2
         x: 48
@@ -482,7 +482,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -509,24 +509,24 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      VegetablesGroundAtlas_0: 3218729727019558033
-      VegetablesGroundAtlas_1: -1315731675
-      VegetablesGroundAtlas_10: -11955328
-      VegetablesGroundAtlas_11: -1912145628
-      VegetablesGroundAtlas_12: -1196851150
-      VegetablesGroundAtlas_13: 151315418
-      VegetablesGroundAtlas_14: -21983995
-      VegetablesGroundAtlas_15: 1049947152
-      VegetablesGroundAtlas_16: 1813512678
-      VegetablesGroundAtlas_17: -1401505570
-      VegetablesGroundAtlas_2: 1061903085
-      VegetablesGroundAtlas_3: 2091087040
-      VegetablesGroundAtlas_4: -1530492934
-      VegetablesGroundAtlas_5: -528523204
-      VegetablesGroundAtlas_6: -676359931
-      VegetablesGroundAtlas_7: -436192117
-      VegetablesGroundAtlas_8: -890452792
-      VegetablesGroundAtlas_9: 1037040399
+      CarrotStage0: -11955328
+      CarrotStage1: -1912145628
+      CarrotStage2: -1196851150
+      CarrotStage3: 151315418
+      GroundDry: 3218729727019558033
+      GroundWet: -1315731675
+      LettuceStage0: 1061903085
+      LettuceStage1: 2091087040
+      LettuceStage2: -1530492934
+      LettuceStage3: -528523204
+      PotatoStage0: -676359931
+      PotatoStage1: -436192117
+      PotatoStage2: -890452792
+      PotatoStage3: 1037040399
+      TomatoStage0: -21983995
+      TomatoStage1: 1049947152
+      TomatoStage2: 1813512678
+      TomatoStage3: -1401505570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
