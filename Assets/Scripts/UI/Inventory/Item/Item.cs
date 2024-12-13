@@ -5,7 +5,6 @@ using UnityEngine.Tilemaps;
 public class Item : ScriptableObject
 {
     [Header("Only gameplay")]
-    public TileBase tile;
     public ActionType action;
     public Vector2Int range = new Vector2Int(5, 4);
     public int timeGrow;

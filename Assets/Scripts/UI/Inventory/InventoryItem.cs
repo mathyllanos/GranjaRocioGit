@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
     [Header("Objeto Scriptable")]
-    public Item item;
+    [HideInInspector]public Item item;
 
     [Header("UI")]
     public Image image;
@@ -13,13 +13,6 @@ public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
 
     [HideInInspector] public Transform parentAfterDrag;
     [HideInInspector] public int count = 1;
-
-    /*
-    private void Start()
-    {
-        InitialiseItem(item);
-    }
-    */
 
     public void InitialiseItem(Item newItem)
     {
@@ -44,7 +37,7 @@ public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
 
     public void OnDrag(PointerEventData eventData)
     {
-        transform.position = Input.mousePosition;
+        transform.position = eventData.position;
     }
 
     public void OnEndDrag(PointerEventData eventData)

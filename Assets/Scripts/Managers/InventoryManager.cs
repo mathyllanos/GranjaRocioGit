@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
+    public static InventoryManager instance;
+
     public Item[] startItems;
 
     public int maxStackedItems = 4;
@@ -10,6 +12,11 @@ public class InventoryManager : MonoBehaviour
     public GameObject inventoryItemPrefab;
 
     int selectedSlot = -1;
+
+    private void Awake()
+    {
+        instance = this;
+    }
 
     private void Start()
     {
@@ -48,7 +55,6 @@ public class InventoryManager : MonoBehaviour
 
     public bool AddItem(Item item)
     {
-        //Encuentra slot vacio
         for (int i = 0; i < inventorySlots.Length; i++)
         {
             InventorySlot slot = inventorySlots[i];
@@ -58,9 +64,21 @@ public class InventoryManager : MonoBehaviour
                 itemInSlot.count < maxStackedItems &&
                 itemInSlot.item.stackable == true)
             {
-                SpawnNewItem(item,slot);
+                SpawnNewItem(item, slot);
                 itemInSlot.count++;
                 itemInSlot.RefreshCount();
+                return true;
+            }
+        }
+
+        //Encuentra slot vacio
+        for (int i = 0; i < inventorySlots.Length; i++)
+        {
+            InventorySlot slot = inventorySlots[i];
+            InventoryItem itemInSlot = slot.GetComponentInChildren<InventoryItem>();
+            if (itemInSlot == null)
+            {
+                SpawnNewItem(item,slot);
                 return true;
             }
         }
