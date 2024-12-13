@@ -1,0 +1,1148 @@
+fileFormatVersion: 2
+guid: 302d10aaf63ca28468b677a7ad6b0caf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1109669453973564179
+    second: Decoracionse plantas_0
+  - first:
+      213: 2951113961909574488
+    second: Decoracionse plantas_1
+  - first:
+      213: -2390273092229848790
+    second: Decoracionse plantas_2
+  - first:
+      213: -5184642513320774629
+    second: Decoracionse plantas_3
+  - first:
+      213: 2369864373648784444
+    second: Decoracionse plantas_4
+  - first:
+      213: 1311161361216008493
+    second: Decoracionse plantas_5
+  - first:
+      213: 6240437270190992750
+    second: Decoracionse plantas_6
+  - first:
+      213: 2140689724619560497
+    second: Decoracionse plantas_7
+  - first:
+      213: -1431303571445086814
+    second: Decoracionse plantas_8
+  - first:
+      213: 2445156825072143305
+    second: Decoracionse plantas_9
+  - first:
+      213: 6239245861356046065
+    second: Decoracionse plantas_10
+  - first:
+      213: -3754164801288423612
+    second: Decoracionse plantas_11
+  - first:
+      213: 6197546971924934184
+    second: Decoracionse plantas_12
+  - first:
+      213: 643306569105440574
+    second: Decoracionse plantas_13
+  - first:
+      213: 5741964883139998394
+    second: Decoracionse plantas_14
+  - first:
+      213: 2872669194887402853
+    second: Decoracionse plantas_15
+  - first:
+      213: 8690753753464886460
+    second: Decoracionse plantas_16
+  - first:
+      213: 4505444881745549636
+    second: Decoracionse plantas_17
+  - first:
+      213: 925956359207585786
+    second: Decoracionse plantas_18
+  - first:
+      213: -6819887523833724364
+    second: Decoracionse plantas_19
+  - first:
+      213: 348815908152736119
+    second: Decoracionse plantas_20
+  - first:
+      213: 8019598273279675523
+    second: Decoracionse plantas_21
+  - first:
+      213: -8106513273180537716
+    second: Decoracionse plantas_22
+  - first:
+      213: -8881070978488187831
+    second: Decoracionse plantas_23
+  - first:
+      213: -4353884133521235290
+    second: Decoracionse plantas_24
+  - first:
+      213: -6626285755488055032
+    second: Decoracionse plantas_25
+  - first:
+      213: -3491286444328594566
+    second: Decoracionse plantas_26
+  - first:
+      213: -673836849154864952
+    second: Decoracionse plantas_27
+  - first:
+      213: 7477833062589431094
+    second: Decoracionse plantas_28
+  - first:
+      213: 6953004093514374864
+    second: Decoracionse plantas_29
+  - first:
+      213: 3022281240066645871
+    second: Decoracionse plantas_30
+  - first:
+      213: 3019626507188009794
+    second: Decoracionse plantas_31
+  - first:
+      213: -8876606917827443969
+    second: Decoracionse plantas_32
+  - first:
+      213: 6252228428862771350
+    second: Decoracionse plantas_33
+  - first:
+      213: 5581486362727515256
+    second: Decoracionse plantas_34
+  - first:
+      213: -4914974681476218628
+    second: Decoracionse plantas_35
+  - first:
+      213: -5974479624380642094
+    second: Decoracionse plantas_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Decoracionse plantas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b22363d76566f00800000000000000
+      internalID: 1109669453973564179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd05f338674f820800000000000000
+      internalID: 2951113961909574488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 145
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21277d694b04ded0800000000000000
+      internalID: -2390273092229848790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 147
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1470228a137c08b0800000000000000
+      internalID: -5184642513320774629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c703d771373e020800000000000000
+      internalID: 2369864373648784444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d217f7aaf4e223210800000000000000
+      internalID: 1311161361216008493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da7dc42ac7a9650800000000000000
+      internalID: 6240437270190992750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136174276f145bd10800000000000000
+      internalID: 2140689724619560497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 143
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a584423cfcf22ce0800000000000000
+      internalID: -1431303571445086814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb0c8a6d21fee120800000000000000
+      internalID: 2445156825072143305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60470dd01469650800000000000000
+      internalID: 6239245861356046065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447bdeee00786ebc0800000000000000
+      internalID: -3754164801288423612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e226c822c120650800000000000000
+      internalID: 6197546971924934184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 145
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f743d8aeb7de800800000000000000
+      internalID: 643306569105440574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 115
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2b35493ae8faf40800000000000000
+      internalID: 5741964883139998394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 130
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5659876a965cdd720800000000000000
+      internalID: 2872669194887402853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 130
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4daa14e72cb9870800000000000000
+      internalID: 8690753753464886460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499b83cf3e868e30800000000000000
+      internalID: 4505444881745549636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 130
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7051c1768a9dc00800000000000000
+      internalID: 925956359207585786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432c5cd2e64ea51a0800000000000000
+      internalID: -6819887523833724364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779f279683e37d400800000000000000
+      internalID: 348815908152736119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ccb20d3265b4f60800000000000000
+      internalID: 8019598273279675523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb511d021ef7f80800000000000000
+      internalID: -8106513273180537716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9444e2ebff810c480800000000000000
+      internalID: -8881070978488187831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2e14cc275e393c0800000000000000
+      internalID: -4353884133521235290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 82
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80157e38634ba04a0800000000000000
+      internalID: -6626285755488055032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 95
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7358acf9757c8fc0800000000000000
+      internalID: -3491286444328594566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 82
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c84e81b4fc06a6f0800000000000000
+      internalID: -673836849154864952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 88
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d70591d8996c760800000000000000
+      internalID: 7477833062589431094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ded2cb62680e7060800000000000000
+      internalID: 6953004093514374864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fdf7d66cc41f920800000000000000
+      internalID: 3022281240066645871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 56
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7b434f4ed7e920800000000000000
+      internalID: 3019626507188009794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 50
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2ce1cd905ffc480800000000000000
+      internalID: -8876606917827443969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d6fc51a064c650800000000000000
+      internalID: 6252228428862771350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 16
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8748f01664c657d40800000000000000
+      internalID: 5581486362727515256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0429e51908acbb0800000000000000
+      internalID: -4914974681476218628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc8bfe8f62661da0800000000000000
+      internalID: -5974479624380642094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921f110fadce18409cf05c89a0effad
+      internalID: 884443880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ce4656f24bf2f489483cc54bb917a0
+      internalID: 778261971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoracionse plantas_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e392fd7b87beef49845c981d58f02b6
+      internalID: -1271780203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d63ac19f2bcb5b44aa8bec469a3ffaf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Decoracionse plantas_0: 1109669453973564179
+      Decoracionse plantas_1: 2951113961909574488
+      Decoracionse plantas_10: 6239245861356046065
+      Decoracionse plantas_11: -3754164801288423612
+      Decoracionse plantas_12: 6197546971924934184
+      Decoracionse plantas_13: 643306569105440574
+      Decoracionse plantas_14: 5741964883139998394
+      Decoracionse plantas_15: 2872669194887402853
+      Decoracionse plantas_16: 8690753753464886460
+      Decoracionse plantas_17: 4505444881745549636
+      Decoracionse plantas_18: 925956359207585786
+      Decoracionse plantas_19: -6819887523833724364
+      Decoracionse plantas_2: -2390273092229848790
+      Decoracionse plantas_20: 348815908152736119
+      Decoracionse plantas_21: 8019598273279675523
+      Decoracionse plantas_22: -8106513273180537716
+      Decoracionse plantas_23: -8881070978488187831
+      Decoracionse plantas_24: -4353884133521235290
+      Decoracionse plantas_25: -6626285755488055032
+      Decoracionse plantas_26: -3491286444328594566
+      Decoracionse plantas_27: -673836849154864952
+      Decoracionse plantas_28: 7477833062589431094
+      Decoracionse plantas_29: 6953004093514374864
+      Decoracionse plantas_3: -5184642513320774629
+      Decoracionse plantas_30: 3022281240066645871
+      Decoracionse plantas_31: 3019626507188009794
+      Decoracionse plantas_32: -8876606917827443969
+      Decoracionse plantas_33: 6252228428862771350
+      Decoracionse plantas_34: 5581486362727515256
+      Decoracionse plantas_35: -4914974681476218628
+      Decoracionse plantas_36: -5974479624380642094
+      Decoracionse plantas_37: 884443880
+      Decoracionse plantas_38: 778261971
+      Decoracionse plantas_39: -1271780203
+      Decoracionse plantas_4: 2369864373648784444
+      Decoracionse plantas_5: 1311161361216008493
+      Decoracionse plantas_6: 6240437270190992750
+      Decoracionse plantas_7: 2140689724619560497
+      Decoracionse plantas_8: -1431303571445086814
+      Decoracionse plantas_9: 2445156825072143305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
