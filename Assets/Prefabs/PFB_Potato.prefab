@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4512558538434044757}
   - component: {fileID: 6100626749102294424}
-  - component: {fileID: 7999047279895386976}
+  - component: {fileID: 8410318344427537935}
   m_Layer: 0
-  m_Name: Patata
+  m_Name: PFB_Potato
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -88,7 +88,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7999047279895386976
+--- !u!114 &8410318344427537935
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -97,18 +97,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 3741367915670210510}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e53ab84218c4584a8006d418825f6a0, type: 3}
+  m_Script: {fileID: 11500000, guid: 833d1348da2419f409d89da0c53de37a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stage: 0
-  canGrow: 0
-  time: 0
-  maxTime: 15
-  water: 0
-  maxWater: 10
-  sprites:
+  growthStage: 0
+  currentTime: 0
+  currentWater: 0
+  foodScriptableObject: {fileID: 11400000, guid: 64757d091e837e74bb0acc6165b73f1b, type: 2}
+  renderer: {fileID: 6100626749102294424}
+  stageSprites:
   - {fileID: -676359931, guid: a234aafd46bc93043a5f1082b11d6bb4, type: 3}
   - {fileID: -436192117, guid: a234aafd46bc93043a5f1082b11d6bb4, type: 3}
   - {fileID: -890452792, guid: a234aafd46bc93043a5f1082b11d6bb4, type: 3}
   - {fileID: 1037040399, guid: a234aafd46bc93043a5f1082b11d6bb4, type: 3}
-  renderer: {fileID: 0}
