@@ -4,7 +4,16 @@ using UnityEngine;
 public class Cambio_Decapas : MonoBehaviour
 {
 
-    public SpriteRenderer SpriteRenderer;
+    private SpriteRenderer SpriteRenderer;
+
+
+   void Awake() 
+    {
+        SpriteRenderer = GetComponent<SpriteRenderer>();    
+
+
+    }
+
 
 
     public void OnTriggerEnter2D(Collider2D other)
@@ -52,7 +61,7 @@ public class Cambio_Decapas : MonoBehaviour
     {
         
     }
-
+    
     // Update is called once per frame
     void Update()
     {
