@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Arable
   - Plowed
+  - Seed
   layers:
   - Default
   - TransparentFX

@@ -11,7 +11,7 @@ public class InventoryManager : MonoBehaviour
 
     public GameObject inventoryItemPrefab;
 
-    int selectedSlot = -1;
+    public int selectedSlot = -1;
 
     private void Awake()
     {
