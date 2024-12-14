@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 2ab0fcf7eb4702e41ad77d918b93121e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7277789720943219950
+    second: Regar_Abajo_0
+  - first:
+      213: 5103558489347231542
+    second: Regar_Abajo_1
+  - first:
+      213: 175731229225842831
+    second: Regar_Abajo_2
+  - first:
+      213: 966948159971331663
+    second: Regar_Abajo_3
+  - first:
+      213: 8349707495459233249
+    second: Regar_Abajo_4
+  - first:
+      213: 9051048393209942230
+    second: Regar_Abajo_5
+  - first:
+      213: -8833337952610894956
+    second: Regar_Abajo_6
+  - first:
+      213: 7617332530615322127
+    second: Regar_Abajo_7
+  - first:
+      213: -3173716206074119173
+    second: Regar_Abajo_8
+  - first:
+      213: -3014098251105613818
+    second: Regar_Abajo_9
+  - first:
+      213: -7797206757844912707
+    second: Regar_Abajo_10
+  - first:
+      213: -4822270247843906869
+    second: Regar_Abajo_11
+  - first:
+      213: -9024925327170742327
+    second: Regar_Abajo_12
+  - first:
+      213: -7605594211345630867
+    second: Regar_Abajo_13
+  - first:
+      213: 9164204344875622458
+    second: Regar_Abajo_14
+  - first:
+      213: -3627132714237952203
+    second: Regar_Abajo_15
+  - first:
+      213: 2464726032586499898
+    second: Regar_Abajo_16
+  - first:
+      213: 6475502334679569830
+    second: Regar_Abajo_17
+  - first:
+      213: -6667912590216487143
+    second: Regar_Abajo_18
+  - first:
+      213: -5611569120907914392
+    second: Regar_Abajo_19
+  - first:
+      213: -5291942441796292125
+    second: Regar_Abajo_20
+  - first:
+      213: -198077951448562134
+    second: Regar_Abajo_21
+  - first:
+      213: 217118641573497609
+    second: Regar_Abajo_22
+  - first:
+      213: -1293773442265967646
+    second: Regar_Abajo_23
+  - first:
+      213: -4662356984841615869
+    second: Regar_Abajo_24
+  - first:
+      213: 5578979064988393286
+    second: Regar_Abajo_25
+  - first:
+      213: -6047472573025969414
+    second: Regar_Abajo_26
+  - first:
+      213: 1203586216733921833
+    second: Regar_Abajo_27
+  - first:
+      213: 4769856455977772795
+    second: Regar_Abajo_28
+  - first:
+      213: -5192937272463379564
+    second: Regar_Abajo_29
+  - first:
+      213: 572550398062597696
+    second: Regar_Abajo_30
+  - first:
+      213: -2362564127637122909
+    second: Regar_Abajo_31
+  - first:
+      213: 3809654082395890695
+    second: Regar_Abajo_32
+  - first:
+      213: -6048826652415162834
+    second: Regar_Abajo_33
+  - first:
+      213: -2942416255124060247
+    second: Regar_Abajo_34
+  - first:
+      213: 5293804232706298846
+    second: Regar_Abajo_35
+  - first:
+      213: 4152181727590192913
+    second: Regar_Abajo_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Regar_Abajo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ba035eec8100b90800000000000000
+      internalID: -7277789720943219950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f88fff76b73d640800000000000000
+      internalID: 5103558489347231542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88f2f53f92507200800000000000000
+      internalID: 175731229225842831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e0f477a3a4b6d00800000000000000
+      internalID: 966948159971331663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed934d7abe10e370800000000000000
+      internalID: 8349707495459233249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d016222f88cb9d70800000000000000
+      internalID: 9051048393209942230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bb6a1eeeda96580800000000000000
+      internalID: -8833337952610894956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f068a57049336b960800000000000000
+      internalID: 7617332530615322127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb3d07fce1b4f3d0800000000000000
+      internalID: -3173716206074119173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60849b82c95cb26d0800000000000000
+      internalID: -3014098251105613818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f06ed3c1cac390800000000000000
+      internalID: -7797206757844912707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca345252cad31db0800000000000000
+      internalID: -4822270247843906869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7df852b3601c280800000000000000
+      internalID: -9024925327170742327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69f9f66c50837690800000000000000
+      internalID: -7605594211345630867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3027613c4bcd2f70800000000000000
+      internalID: 9164204344875622458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 180
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff5a68306d9adc0800000000000000
+      internalID: -3627132714237952203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 180
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37e9f89447743220800000000000000
+      internalID: 2464726032586499898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5d9c0901b9dd950800000000000000
+      internalID: 6475502334679569830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f9acac3d0d673a0800000000000000
+      internalID: -6667912590216487143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8639bbbad93bf12b0800000000000000
+      internalID: -5611569120907914392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e13be8136e3f86b0800000000000000
+      internalID: -5291942441796292125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2642121729404df0800000000000000
+      internalID: -198077951448562134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8a11114c530300800000000000000
+      internalID: 217118641573497609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e317e1b8e79b0ee0800000000000000
+      internalID: -1293773442265967646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3064476460bfb4fb0800000000000000
+      internalID: -4662356984841615869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f59f1a6e38c6d40800000000000000
+      internalID: 5578979064988393286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa9ed75cbf031ca0800000000000000
+      internalID: -6047472573025969414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9225bf8894ff3b010800000000000000
+      internalID: 1203586216733921833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6a828cc2fe13240800000000000000
+      internalID: 4769856455977772795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4933fe5601bfee7b0800000000000000
+      internalID: -5192937272463379564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0469784bd8b12f700800000000000000
+      internalID: 572550398062597696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0db1d717c763fd0800000000000000
+      internalID: -2362564127637122909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e25a143c9ed430800000000000000
+      internalID: 3809654082395890695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 60
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2601ea25304e0ca0800000000000000
+      internalID: -6048826652415162834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7cefb61007a27d0800000000000000
+      internalID: -2942416255124060247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed31be0e6ee577940800000000000000
+      internalID: 5293804232706298846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Abajo_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11791e338438f9930800000000000000
+      internalID: 4152181727590192913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ab06fb154954f14c9302c9c558a3953
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Regar_Abajo_0: -7277789720943219950
+      Regar_Abajo_1: 5103558489347231542
+      Regar_Abajo_10: -7797206757844912707
+      Regar_Abajo_11: -4822270247843906869
+      Regar_Abajo_12: -9024925327170742327
+      Regar_Abajo_13: -7605594211345630867
+      Regar_Abajo_14: 9164204344875622458
+      Regar_Abajo_15: -3627132714237952203
+      Regar_Abajo_16: 2464726032586499898
+      Regar_Abajo_17: 6475502334679569830
+      Regar_Abajo_18: -6667912590216487143
+      Regar_Abajo_19: -5611569120907914392
+      Regar_Abajo_2: 175731229225842831
+      Regar_Abajo_20: -5291942441796292125
+      Regar_Abajo_21: -198077951448562134
+      Regar_Abajo_22: 217118641573497609
+      Regar_Abajo_23: -1293773442265967646
+      Regar_Abajo_24: -4662356984841615869
+      Regar_Abajo_25: 5578979064988393286
+      Regar_Abajo_26: -6047472573025969414
+      Regar_Abajo_27: 1203586216733921833
+      Regar_Abajo_28: 4769856455977772795
+      Regar_Abajo_29: -5192937272463379564
+      Regar_Abajo_3: 966948159971331663
+      Regar_Abajo_30: 572550398062597696
+      Regar_Abajo_31: -2362564127637122909
+      Regar_Abajo_32: 3809654082395890695
+      Regar_Abajo_33: -6048826652415162834
+      Regar_Abajo_34: -2942416255124060247
+      Regar_Abajo_35: 5293804232706298846
+      Regar_Abajo_36: 4152181727590192913
+      Regar_Abajo_4: 8349707495459233249
+      Regar_Abajo_5: 9051048393209942230
+      Regar_Abajo_6: -8833337952610894956
+      Regar_Abajo_7: 7617332530615322127
+      Regar_Abajo_8: -3173716206074119173
+      Regar_Abajo_9: -3014098251105613818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

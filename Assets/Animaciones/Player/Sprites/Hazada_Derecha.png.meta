@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: f53a954348450974b860cf235aaf2085
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4855330081425125585
+    second: Hazada_Derecha_0
+  - first:
+      213: -688961858279426308
+    second: Hazada_Derecha_1
+  - first:
+      213: 4180967680046277511
+    second: Hazada_Derecha_2
+  - first:
+      213: -8663970052058383087
+    second: Hazada_Derecha_3
+  - first:
+      213: 5048216032611885196
+    second: Hazada_Derecha_4
+  - first:
+      213: -7295560545433380664
+    second: Hazada_Derecha_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazada_Derecha_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 126
+        width: 60
+        height: 32
+      alignment: 9
+      pivot: {x: 0.21666668, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f036df3076e9cb0800000000000000
+      internalID: -4855330081425125585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazada_Derecha_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 125
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.21311474, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6367517d05076f0800000000000000
+      internalID: -688961858279426308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazada_Derecha_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 125
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.21311474, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7832c8a04f7c50a30800000000000000
+      internalID: 4180967680046277511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazada_Derecha_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 98
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29090908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dff6e242563c780800000000000000
+      internalID: -8663970052058383087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazada_Derecha_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 64
+        height: 45
+      alignment: 9
+      pivot: {x: 0.796875, y: 0.35555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80634d2cbdde0640800000000000000
+      internalID: 5048216032611885196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazada_Derecha_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 31
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.7704918, y: 0.2962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c896146656f0ca90800000000000000
+      internalID: -7295560545433380664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da6f43b32a85b5940813a9f428094e91
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hazada_Derecha_0: -4855330081425125585
+      Hazada_Derecha_1: -688961858279426308
+      Hazada_Derecha_2: 4180967680046277511
+      Hazada_Derecha_3: -8663970052058383087
+      Hazada_Derecha_4: 5048216032611885196
+      Hazada_Derecha_5: -7295560545433380664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

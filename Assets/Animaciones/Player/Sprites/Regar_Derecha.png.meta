@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: f12b752bd8ec9194fb2628b7841f33c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8544047791645297289
+    second: Regar_Derecha_0
+  - first:
+      213: 2677390203392671116
+    second: Regar_Derecha_1
+  - first:
+      213: -951756519804290709
+    second: Regar_Derecha_2
+  - first:
+      213: 5062778556185669730
+    second: Regar_Derecha_3
+  - first:
+      213: 7482035322718372724
+    second: Regar_Derecha_4
+  - first:
+      213: -6610005148439431341
+    second: Regar_Derecha_5
+  - first:
+      213: -165001299137194522
+    second: Regar_Derecha_6
+  - first:
+      213: -4059895742332946849
+    second: Regar_Derecha_7
+  - first:
+      213: 1718617769660532032
+    second: Regar_Derecha_8
+  - first:
+      213: 5557062546720431720
+    second: Regar_Derecha_9
+  - first:
+      213: 6666484075744148282
+    second: Regar_Derecha_10
+  - first:
+      213: -6542483715992106473
+    second: Regar_Derecha_11
+  - first:
+      213: -4121357450589115432
+    second: Regar_Derecha_12
+  - first:
+      213: -3204426177360642854
+    second: Regar_Derecha_13
+  - first:
+      213: -2746591970713033306
+    second: Regar_Derecha_14
+  - first:
+      213: 8855063839385054503
+    second: Regar_Derecha_15
+  - first:
+      213: -8450770336374330935
+    second: Regar_Derecha_16
+  - first:
+      213: -6353936496870939072
+    second: Regar_Derecha_17
+  - first:
+      213: -1348329582432132677
+    second: Regar_Derecha_18
+  - first:
+      213: 8927638791310933233
+    second: Regar_Derecha_19
+  - first:
+      213: 3417946397033067313
+    second: Regar_Derecha_20
+  - first:
+      213: -3502413628482599947
+    second: Regar_Derecha_21
+  - first:
+      213: -7958213713202563072
+    second: Regar_Derecha_22
+  - first:
+      213: 3586333454401416347
+    second: Regar_Derecha_23
+  - first:
+      213: 133218001999451212
+    second: Regar_Derecha_24
+  - first:
+      213: 4283238032669146131
+    second: Regar_Derecha_25
+  - first:
+      213: -4584425029667135076
+    second: Regar_Derecha_26
+  - first:
+      213: 7875907449849699449
+    second: Regar_Derecha_27
+  - first:
+      213: -6682029837380336441
+    second: Regar_Derecha_28
+  - first:
+      213: -2817940935451050859
+    second: Regar_Derecha_29
+  - first:
+      213: 68077520398261901
+    second: Regar_Derecha_30
+  - first:
+      213: 104047595920538333
+    second: Regar_Derecha_31
+  - first:
+      213: -6741275383936533548
+    second: Regar_Derecha_32
+  - first:
+      213: -8012621572413067049
+    second: Regar_Derecha_33
+  - first:
+      213: 2324011482707808211
+    second: Regar_Derecha_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Regar_Derecha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77575034dc17d6980800000000000000
+      internalID: -8544047791645297289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8db45e5430082520800000000000000
+      internalID: 2677390203392671116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b693764ec7eaac2f0800000000000000
+      internalID: -951756519804290709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26079e9e54a924640800000000000000
+      internalID: 5062778556185669730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 160
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473cd870c7785d760800000000000000
+      internalID: 7482035322718372724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b3cbb65b8444a0800000000000000
+      internalID: -6610005148439431341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e51371513cc5bdf0800000000000000
+      internalID: -165001299137194522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56bf15255a58a7c0800000000000000
+      internalID: -4059895742332946849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0454a4181c1c9d710800000000000000
+      internalID: 1718617769660532032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e16e391f6ae1d40800000000000000
+      internalID: 5557062546720431720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b378342fb148c50800000000000000
+      internalID: 6666484075744148282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a438f49bd6435a0800000000000000
+      internalID: -6542483715992106473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbe93d0c3ffdc6c0800000000000000
+      internalID: -4121357450589115432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcb4759e579783d0800000000000000
+      internalID: -3204426177360642854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a5ba972522e9d0800000000000000
+      internalID: -2746591970713033306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72de3f155a183ea70800000000000000
+      internalID: 8855063839385054503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 96
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9eff53725d8ba80800000000000000
+      internalID: -8450770336374330935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0462e92bb6842d7a0800000000000000
+      internalID: -6353936496870939072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb16bf67365c94de0800000000000000
+      internalID: -1348329582432132677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcf5171e2855eb70800000000000000
+      internalID: 8927638791310933233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1337b78932cfe6f20800000000000000
+      internalID: 3417946397033067313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3cec98c5de46fc0800000000000000
+      internalID: -3502413628482599947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0083be1dacebe8190800000000000000
+      internalID: -7958213713202563072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c22bb864735c130800000000000000
+      internalID: 3586333454401416347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c445dd6211949d100800000000000000
+      internalID: 133218001999451212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cffa11c4e117b30800000000000000
+      internalID: 4283238032669146131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91e74f89b9d060c0800000000000000
+      internalID: -4584425029667135076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cd428e818dc4d60800000000000000
+      internalID: 7875907449849699449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 32
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4426c0449a443a0800000000000000
+      internalID: -6682029837380336441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c786836a9a4e8d0800000000000000
+      internalID: -2817940935451050859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e1784e42cd1f000800000000000000
+      internalID: 68077520398261901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddab39abcb6a17100800000000000000
+      internalID: 104047595920538333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbb06f41cd2272a0800000000000000
+      internalID: -6741275383936533548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ffa0f1237dc090800000000000000
+      internalID: -8012621572413067049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Derecha_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2916667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df4ab0612c804020800000000000000
+      internalID: 2324011482707808211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 91787211531fd394181c1d764fb683cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Regar_Derecha_0: -8544047791645297289
+      Regar_Derecha_1: 2677390203392671116
+      Regar_Derecha_10: 6666484075744148282
+      Regar_Derecha_11: -6542483715992106473
+      Regar_Derecha_12: -4121357450589115432
+      Regar_Derecha_13: -3204426177360642854
+      Regar_Derecha_14: -2746591970713033306
+      Regar_Derecha_15: 8855063839385054503
+      Regar_Derecha_16: -8450770336374330935
+      Regar_Derecha_17: -6353936496870939072
+      Regar_Derecha_18: -1348329582432132677
+      Regar_Derecha_19: 8927638791310933233
+      Regar_Derecha_2: -951756519804290709
+      Regar_Derecha_20: 3417946397033067313
+      Regar_Derecha_21: -3502413628482599947
+      Regar_Derecha_22: -7958213713202563072
+      Regar_Derecha_23: 3586333454401416347
+      Regar_Derecha_24: 133218001999451212
+      Regar_Derecha_25: 4283238032669146131
+      Regar_Derecha_26: -4584425029667135076
+      Regar_Derecha_27: 7875907449849699449
+      Regar_Derecha_28: -6682029837380336441
+      Regar_Derecha_29: -2817940935451050859
+      Regar_Derecha_3: 5062778556185669730
+      Regar_Derecha_30: 68077520398261901
+      Regar_Derecha_31: 104047595920538333
+      Regar_Derecha_32: -6741275383936533548
+      Regar_Derecha_33: -8012621572413067049
+      Regar_Derecha_34: 2324011482707808211
+      Regar_Derecha_4: 7482035322718372724
+      Regar_Derecha_5: -6610005148439431341
+      Regar_Derecha_6: -165001299137194522
+      Regar_Derecha_7: -4059895742332946849
+      Regar_Derecha_8: 1718617769660532032
+      Regar_Derecha_9: 5557062546720431720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Andando_Izquierda
+  m_Name: Sembrar_Abajo
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,11 +21,11 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 7034911637732533340, guid: c6d9ed116c858054883d3d9193c2203f, type: 3}
+      value: {fileID: 3680359381350806155, guid: 145139ae482d16349b3ea42f9ede164a, type: 3}
     - time: 0.16666667
-      value: {fileID: 7171162316579135543, guid: c6d9ed116c858054883d3d9193c2203f, type: 3}
+      value: {fileID: 5988813318558999655, guid: 145139ae482d16349b3ea42f9ede164a, type: 3}
     - time: 0.33333334
-      value: {fileID: -138868819062095302, guid: c6d9ed116c858054883d3d9193c2203f, type: 3}
+      value: {fileID: 3680359381350806155, guid: 145139ae482d16349b3ea42f9ede164a, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -48,9 +48,9 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 7034911637732533340, guid: c6d9ed116c858054883d3d9193c2203f, type: 3}
-    - {fileID: 7171162316579135543, guid: c6d9ed116c858054883d3d9193c2203f, type: 3}
-    - {fileID: -138868819062095302, guid: c6d9ed116c858054883d3d9193c2203f, type: 3}
+    - {fileID: 3680359381350806155, guid: 145139ae482d16349b3ea42f9ede164a, type: 3}
+    - {fileID: 5988813318558999655, guid: 145139ae482d16349b3ea42f9ede164a, type: 3}
+    - {fileID: 3680359381350806155, guid: 145139ae482d16349b3ea42f9ede164a, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
