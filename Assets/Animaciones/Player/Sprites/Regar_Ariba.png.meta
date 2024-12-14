@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 2e17fc5f4418b1948afd69233c0ced38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1711158299788822279
+    second: Regar_Ariba_0
+  - first:
+      213: 298284169248332300
+    second: Regar_Ariba_1
+  - first:
+      213: 3669323812056180843
+    second: Regar_Ariba_2
+  - first:
+      213: 2651020110458870987
+    second: Regar_Ariba_3
+  - first:
+      213: -9000565945115985754
+    second: Regar_Ariba_4
+  - first:
+      213: -3235088608388072612
+    second: Regar_Ariba_5
+  - first:
+      213: 3961683286051546600
+    second: Regar_Ariba_6
+  - first:
+      213: 3861994057380480056
+    second: Regar_Ariba_7
+  - first:
+      213: 5915396681419447774
+    second: Regar_Ariba_8
+  - first:
+      213: -5029025911780012454
+    second: Regar_Ariba_9
+  - first:
+      213: 8997837743703264747
+    second: Regar_Ariba_10
+  - first:
+      213: 7349816566474885538
+    second: Regar_Ariba_11
+  - first:
+      213: -5313094875726362076
+    second: Regar_Ariba_12
+  - first:
+      213: -3367321310771816660
+    second: Regar_Ariba_13
+  - first:
+      213: -2935035215250214320
+    second: Regar_Ariba_14
+  - first:
+      213: 334184203619974738
+    second: Regar_Ariba_15
+  - first:
+      213: -8115066448702236307
+    second: Regar_Ariba_16
+  - first:
+      213: 6292984643233288643
+    second: Regar_Ariba_17
+  - first:
+      213: 6500007024879410189
+    second: Regar_Ariba_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Regar_Ariba_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707cf5558614fb710800000000000000
+      internalID: 1711158299788822279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 194
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a5b2e1fd7b32400800000000000000
+      internalID: 298284169248332300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 194
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ad7fe09e0ce230800000000000000
+      internalID: 3669323812056180843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 194
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc5158aeb05ac420800000000000000
+      internalID: 2651020110458870987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 188
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a832efb5f0971380800000000000000
+      internalID: -9000565945115985754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bbd180d08aa13d0800000000000000
+      internalID: -3235088608388072612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e564b175f9baf630800000000000000
+      internalID: 3961683286051546600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83445da222f889530800000000000000
+      internalID: 3861994057380480056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddd78dc0f5b71250800000000000000
+      internalID: 5915396681419447774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 134
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e0e12049f453ab0800000000000000
+      internalID: -5029025911780012454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed090c51cdbedc70800000000000000
+      internalID: 8997837743703264747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 74
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a94409e93bcff560800000000000000
+      internalID: 7349816566474885538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 74
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ac16a4c581446b0800000000000000
+      internalID: -5313094875726362076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27d7d2db1fd441d0800000000000000
+      internalID: -3367321310771816660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052bfbfa509a447d0800000000000000
+      internalID: -2935035215250214320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eb05a33c243a400800000000000000
+      internalID: 334184203619974738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 14
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6999647f0e716f80800000000000000
+      internalID: -8115066448702236307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 14
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c198ecf03c255750800000000000000
+      internalID: 6292984643233288643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Regar_Ariba_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 14
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c1b7b53f9a43a50800000000000000
+      internalID: 6500007024879410189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Regar_Ariba_0: 1711158299788822279
+      Regar_Ariba_1: 298284169248332300
+      Regar_Ariba_10: 8997837743703264747
+      Regar_Ariba_11: 7349816566474885538
+      Regar_Ariba_12: -5313094875726362076
+      Regar_Ariba_13: -3367321310771816660
+      Regar_Ariba_14: -2935035215250214320
+      Regar_Ariba_15: 334184203619974738
+      Regar_Ariba_16: -8115066448702236307
+      Regar_Ariba_17: 6292984643233288643
+      Regar_Ariba_18: 6500007024879410189
+      Regar_Ariba_2: 3669323812056180843
+      Regar_Ariba_3: 2651020110458870987
+      Regar_Ariba_4: -9000565945115985754
+      Regar_Ariba_5: -3235088608388072612
+      Regar_Ariba_6: 3961683286051546600
+      Regar_Ariba_7: 3861994057380480056
+      Regar_Ariba_8: 5915396681419447774
+      Regar_Ariba_9: -5029025911780012454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
