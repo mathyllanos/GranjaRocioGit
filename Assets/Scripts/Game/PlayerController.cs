@@ -19,12 +19,10 @@ public class PlayerController: MonoBehaviour
     private Vector2 _input;
     private bool x , y;
 
-    private bool _interactuando;
-
-
+    private bool _interactuando;    // Para detener el movimiento (modificado por Oscar y Adrián)
+    
     private void Awake(){rb = GetComponent<Rigidbody2D>();}
-
-
+    
     void RestaurarMovimiento()
     {
         _interactuando = false;
@@ -35,11 +33,7 @@ public class PlayerController: MonoBehaviour
         //Explicacion: Esta para es para detectar las teclas que detectan el mobimiento Horizontal y el movimiento Vertical.
         
         _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
-       
-
         
-
-
         // Explicacion: Cons estos IF determinan cuando no esta quieto y cuando se estan desplazando.
 
         if (Input.GetKeyDown(KeyCode.E))
@@ -50,25 +44,18 @@ public class PlayerController: MonoBehaviour
         
         if (!_interactuando)
         {
-
-
             if (x == false)
             {
                 if (_input.x != 0)
                 {
-
                     rb.transform.Translate(Vector2.right * (speed * _input.x) * Time.deltaTime);
 
                     y = true;
                 }
                 else
                 {
-
-
                     y = false;
                 }
-
-
             }
 
 
@@ -76,10 +63,8 @@ public class PlayerController: MonoBehaviour
 
             if (y == false)
             {
-
                 if (_input.y != 0)
                 {
-
                     rb.transform.Translate(Vector2.up * (speed * _input.y) * Time.deltaTime);
                     x = true;
                 }
@@ -87,9 +72,6 @@ public class PlayerController: MonoBehaviour
                 {
                     x = false;
                 }
-
-
-
             }
         }
 

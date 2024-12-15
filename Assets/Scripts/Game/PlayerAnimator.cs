@@ -20,10 +20,11 @@ public class PlayerAnimator : MonoBehaviour
     private void Awake(){ _animator = GetComponent<Animator>();}
     public bool x, y;
     
-    public CircleCollider2D puntoArriba, puntoAbajo, puntoDerecha, puntoIzquierda;
+    public CircleCollider2D puntoArriba, puntoAbajo, puntoDerecha, puntoIzquierda;      // Almacena los distintos colliders del punto de detección del personaje (modificado por Oscar y Adrián)
     
     void Update()
     {
+        // Según la posición hacia la que quede mirando el personaje, se activará y desactivará el collider correspondiente (modificado por Oscar y Adrián)
         if (_ultimaPosicion.x == 1)
         {
             puntoAbajo.enabled = false;
@@ -38,7 +39,6 @@ public class PlayerAnimator : MonoBehaviour
             puntoArriba.enabled = false;
             puntoIzquierda.enabled = true;
             puntoDerecha.enabled = false;
-
         }
 
         if (_ultimaPosicion.y == 1)
@@ -55,7 +55,6 @@ public class PlayerAnimator : MonoBehaviour
             puntoArriba.enabled = false;
             puntoIzquierda.enabled = false;
             puntoDerecha.enabled = false;
-
         }
         
         _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
