@@ -22,6 +22,9 @@ public class Misiones : MonoBehaviour
         Denido = true;
 
         Debug.Log("Fin_Del_tiempo");
+        Time.timeScale = 0;
+
+
     }
 
 
@@ -103,8 +106,8 @@ public class Misiones : MonoBehaviour
         if (!Denido) 
         {
 
-            
 
+          
 
 
         }

@@ -19,9 +19,35 @@ public class PlayerAnimator : MonoBehaviour
     private Animator _animator;
     private void Awake(){ _animator = GetComponent<Animator>();}
     public bool x, y;
+
+    public bool Quieto;
+
     
+
     public CircleCollider2D puntoArriba, puntoAbajo, puntoDerecha, puntoIzquierda;      // Almacena los distintos colliders del punto de detección del personaje (modificado por Oscar y Adrián)
     
+
+    public void Detente(float numero) 
+    {
+
+        Quieto = true;
+
+        Invoke("Restaura", numero);
+    }
+
+    public void Restaura() 
+    {
+
+        Quieto = false;
+
+       
+
+
+
+    }
+
+
+
     void Update()
     {
         // Según la posición hacia la que quede mirando el personaje, se activará y desactivará el collider correspondiente (modificado por Oscar y Adrián)
@@ -56,46 +82,58 @@ public class PlayerAnimator : MonoBehaviour
             puntoIzquierda.enabled = false;
             puntoDerecha.enabled = false;
         }
-        
 
 
 
 
 
+        if (!Quieto)
+        {
 
-        _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
-        
+            _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
+
+
+
+        }
+        else
+        {
+            _input.x = 0;
+            _input.y = 0;
+
+        }
         if (x == false)
-        {
-            if (_input.x != 0)
             {
-                _animator.SetBool("Quieto", false);
-                _ultimaPosicion.y = 0;
-                _ultimaPosicion.x = _input.x;
-                y = true;
-                _input.y = 0;
+                if (_input.x != 0)
+                {
+                    _animator.SetBool("Quieto", false);
+                    _ultimaPosicion.y = 0;
+                    _ultimaPosicion.x = _input.x;
+                    y = true;
+                    _input.y = 0;
+                }
+                else
+                {
+                    y = false;
+                }
             }
-            else 
-            {
-                y = false;
-            }
-        }
 
-        if (y == false)
-        {
-            if (_input.y != 0)
+            if (y == false)
             {
-                _animator.SetBool("Quieto", false);
-                _ultimaPosicion.x = 0;
-                _ultimaPosicion.y = _input.y;
-                x = true;
+                if (_input.y != 0)
+                {
+                    _animator.SetBool("Quieto", false);
+                    _ultimaPosicion.x = 0;
+                    _ultimaPosicion.y = _input.y;
+                    x = true;
+                }
+                else
+                {
+                    x = false;
+                }
             }
-            else 
-            { 
-                x = false ;
-            }
-        }
+
         
+
         if (_input.x == 0 && _input.y == 0)
         {
             _animator.SetBool("Quieto", true);

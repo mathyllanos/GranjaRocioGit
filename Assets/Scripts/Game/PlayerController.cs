@@ -28,7 +28,21 @@ public class PlayerController: MonoBehaviour
         _interactuando = false;
     }
 
-    void Update()
+
+
+
+        public void Detener()
+        {
+            _interactuando = true;
+            Invoke("RestaurarMovimiento", 2);
+        }
+
+
+
+
+
+
+void Update()
     {
         //Explicacion: Esta para es para detectar las teclas que detectan el mobimiento Horizontal y el movimiento Vertical.
         
@@ -36,11 +50,7 @@ public class PlayerController: MonoBehaviour
         
         // Explicacion: Cons estos IF determinan cuando no esta quieto y cuando se estan desplazando.
 
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            _interactuando = true;
-            Invoke("RestaurarMovimiento", 2);
-        }
+        
         
         if (!_interactuando)
         {
