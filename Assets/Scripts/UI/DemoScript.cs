@@ -19,4 +19,18 @@ public class DemoScript : MonoBehaviour
             Debug.Log("No añadido");
         }
     }
+
+    private void Start()
+    {
+        //PickupItem( 5);
+    }
+
+
+
+
+
+
+
+
+
 }

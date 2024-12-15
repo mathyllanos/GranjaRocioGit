@@ -22,7 +22,7 @@ public class CultivateGround : MonoBehaviour
         if (currentCell != null && Input.GetKeyDown(KeyCode.E))
         {
             // Si el terreno es arable y se tiene la azada seleccionada, creamos el terreno arado
-            if (currentCell.CompareTag("Arable") && tool.selectedSlot == 5)
+            if (currentCell.CompareTag("Arable") && tool.selectedSlot == 1)
             {
                 playerAnimator.SetInteger("Herramienta", 1);
                 playerAnimator.SetBool("Interactuar", true);
@@ -31,7 +31,7 @@ public class CultivateGround : MonoBehaviour
                 Destroy(currentCell.gameObject);
             }
             // Si ya está arado y se tienen los guantes seleccionados, se crea un terreno sembrado según la semilla que se haya recogido 
-            else if (currentCell.CompareTag("Plowed") && tool.selectedSlot == 4 && pickedSeed >= 0)
+            else if (currentCell.CompareTag("Plowed") && tool.selectedSlot == 0 && pickedSeed >= 0)
             {
                 playerAnimator.SetInteger("Herramienta", 0);
                 playerAnimator.SetBool("Interactuar", true);
@@ -40,7 +40,7 @@ public class CultivateGround : MonoBehaviour
                 pickedSeed = -1;
                 Destroy(currentCell.gameObject);
             }
-            else if (currentCell.CompareTag("Seed") && tool.selectedSlot == 4)
+            else if (currentCell.CompareTag("Seed") && tool.selectedSlot == 0)
             {
                 playerAnimator.SetInteger("Herramienta", 0);
                 playerAnimator.SetBool("Interactuar", true);
