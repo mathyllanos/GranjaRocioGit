@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Windows;
+using Input = UnityEngine.Windows.Input;
 
 public class PlayerAnimator : MonoBehaviour
 {
@@ -18,17 +19,47 @@ public class PlayerAnimator : MonoBehaviour
     private Animator _animator;
     private void Awake(){ _animator = GetComponent<Animator>();}
     public bool x, y;
-
-
-
-
+    
+    public CircleCollider2D puntoArriba, puntoAbajo, puntoDerecha, puntoIzquierda;
+    
     void Update()
     {
+        if (_ultimaPosicion.x == 1)
+        {
+            puntoAbajo.enabled = false;
+            puntoArriba.enabled = false;
+            puntoIzquierda.enabled = false;
+            puntoDerecha.enabled = true;
+        } 
+        
+        if ((_ultimaPosicion.x == -1))
+        {
+            puntoAbajo.enabled = false;
+            puntoArriba.enabled = false;
+            puntoIzquierda.enabled = true;
+            puntoDerecha.enabled = false;
+
+        }
+
+        if (_ultimaPosicion.y == 1)
+        {
+            puntoAbajo.enabled = false;
+            puntoArriba.enabled = true;
+            puntoIzquierda.enabled = false;
+            puntoDerecha.enabled = false;
+        } 
+        
+        if ((_ultimaPosicion.y == -1))
+        {
+            puntoAbajo.enabled = true;
+            puntoArriba.enabled = false;
+            puntoIzquierda.enabled = false;
+            puntoDerecha.enabled = false;
+
+        }
+        
         _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
-
-
-
-
+        
         if (x == false)
         {
             if (_input.x != 0)
@@ -41,7 +72,6 @@ public class PlayerAnimator : MonoBehaviour
             else 
             {
                 y = false;
-
             }
         }
 
@@ -56,24 +86,15 @@ public class PlayerAnimator : MonoBehaviour
             }
             else 
             { 
-            
                 x = false ;
             }
-
-
-
         }
-
-
-
+        
         if (_input.x == 0 && _input.y == 0)
         {
             _animator.SetBool("Quieto", true);
         }
-
-
-
-
+        
         _animator.SetFloat("AndarX", _input.x);
         _animator.SetFloat("AndarY", _input.y);
         _animator.SetFloat("QuietoAndarX", _ultimaPosicion.x);
