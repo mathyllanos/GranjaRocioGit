@@ -7,6 +7,12 @@ TagManager:
   - Arable
   - Plowed
   - Seed
+  - Patata
+  - Zanahoria
+  - Lechuga
+  - Tomate
+  - Well
+  - Detector
   layers:
   - Default
   - TransparentFX
