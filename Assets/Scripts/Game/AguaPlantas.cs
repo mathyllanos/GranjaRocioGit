@@ -77,7 +77,8 @@ public class AguaPlantas : MonoBehaviour
            
     }
     
-    private void OnCollisionEnter2D(Collision2D other)
+    // Modificados los OnCollision por OnTrigger (modificado por Adrián) 
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Well"))
         {
@@ -104,7 +105,7 @@ public class AguaPlantas : MonoBehaviour
         }
         
     }
-    private void OnCollisionExit2D(Collision2D other)
+    private void OnTriggerExit2D(Collider2D other)
     {
         if (other != null)
         {
