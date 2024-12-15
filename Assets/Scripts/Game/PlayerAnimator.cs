@@ -58,6 +58,12 @@ public class PlayerAnimator : MonoBehaviour
 
         }
         
+
+
+
+
+
+
         _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
         
         if (x == false)
@@ -68,6 +74,7 @@ public class PlayerAnimator : MonoBehaviour
                 _ultimaPosicion.y = 0;
                 _ultimaPosicion.x = _input.x;
                 y = true;
+                _input.y = 0;
             }
             else 
             {
