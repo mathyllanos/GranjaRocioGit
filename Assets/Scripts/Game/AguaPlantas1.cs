@@ -22,6 +22,7 @@ public class AguaPlantas1 : MonoBehaviour
    [SerializeField] private bool _regarTomate = false;
 
 
+   public InventoryManager inventory;
 
     public void RestarAgua(float resto, int cantida) 
     {
@@ -42,11 +43,11 @@ public class AguaPlantas1 : MonoBehaviour
           
         
         
-        if (Input.GetKey(KeyCode.E) && bar.fillAmount < 1.0f && _puedeLlenar)
+        if (inventory.selectedSlot == 2 && Input.GetKey(KeyCode.E) && bar.fillAmount < 1.0f && _puedeLlenar)
            {                      //0.0002f;
                                  //0.0006f;
                                  //0.00035f
-                                 bar.fillAmount += 0.002f;
+                                 bar.fillAmount += 0.02f;
    
                // Solo incrementa CantidadAgua cuando el fillAmount aún no ha llegado a 1
                if (bar.fillAmount >= 1.0f)
@@ -67,7 +68,9 @@ public class AguaPlantas1 : MonoBehaviour
            //Decrementa el fillAmount,al mismo tiempo decrementando el valor de la CantidadAgua solo si el valor 
            //"_regarPlanta" es verdadero
 
-     
+
+           /*if (inventory.selectedSlot == 2)
+           {
                if (Input.GetKeyDown(KeyCode.E) && bar.fillAmount != 0f && _regarPatata)
                {                     
                    bar.fillAmount -= 0.1f;
@@ -88,6 +91,8 @@ public class AguaPlantas1 : MonoBehaviour
                    bar.fillAmount -= 0.75f;
                    CantidadAgua = Mathf.RoundToInt(bar.fillAmount * 100);
                }
+           }*/
+               
                
            
            

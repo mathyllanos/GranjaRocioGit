@@ -22,7 +22,7 @@ public class CultivateGround : MonoBehaviour
     public Animator playerAnimator;                             // Para ejecutar las condiciones de las animaciones
     public PlayerAnimator PlayerAnimator;
     public TextMeshProUGUI textpuntos;
-    private int puntos;
+    public int puntos;
 
     private void Update()
     {
@@ -41,7 +41,7 @@ public class CultivateGround : MonoBehaviour
                 playerAnimator.SetInteger("Herramienta", 1);
                 playerAnimator.SetBool("Interactuar", true);
                 // Esperamos unos segundos para que se ejecute la animación y luego volvemos a la de idle
-                Invoke("ResetAnimation", 2);
+                Invoke("ResetAnimation", 1);
                 Instantiate(plowedGroundPrefab, currentCell.transform.position, quaternion.identity);
                 Destroy(currentCell.gameObject);
             }
@@ -56,7 +56,7 @@ public class CultivateGround : MonoBehaviour
                 playerAnimator.SetInteger("Herramienta", 0);
                 playerAnimator.SetBool("Interactuar", true);
                 // Esperamos unos segundos para que se ejecute la animación y luego volvemos a la de idle
-                Invoke("ResetAnimation", 2);
+                Invoke("ResetAnimation", 1);
                 Instantiate(sownGroundPrefabs[pickedSeed], currentCell.transform.position, quaternion.identity);
                 pickedSeed = -1;
                 Destroy(currentCell.gameObject);
@@ -72,11 +72,11 @@ public class CultivateGround : MonoBehaviour
                 playerAnimator.SetInteger("Herramienta", 0);
                 playerAnimator.SetBool("Interactuar", true);
                 // Esperamos unos segundos para que se ejecute la animación y luego volvemos a la de idle
-                Invoke("ResetAnimation", 2);
+                Invoke("ResetAnimation", 1);
                 pickedSeed = currentCell.GetComponent<Seed>().id;
             }
             // Si se tiene seleccionada la regadera, hay agua y la planta no está en su etapa final, la puede regar si cumple las condiciones
-            else if (inventory.selectedSlot == 2 && plantWater.CantidadAgua > 0 /*&& currentCell.GetComponent<FoodGrowing>().growthStage < 3*/)
+            else if (inventory.selectedSlot == 2 && plantWater.CantidadAgua > 0 && currentCell.GetComponent<FoodGrowing>().growthStage < 3)
             {
                 switch (currentCell.tag, plantWater.CantidadAgua)
                 {
@@ -85,13 +85,12 @@ public class CultivateGround : MonoBehaviour
 
                         PlayerAnimator.Detente(2);
                         PlayerController.Invoke("Detener", 0);
-
-
+                        
                         currentCell.GetComponent<FoodGrowing>().currentWater += 30;
 
                         playerAnimator.SetInteger("Herramienta", 2);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
 
                         plantWater.RestarAgua(0.3f,30);
 
@@ -106,7 +105,7 @@ public class CultivateGround : MonoBehaviour
 
                         playerAnimator.SetInteger("Herramienta", 2);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
 
                         plantWater.RestarAgua(0.5f,50);
 
@@ -120,7 +119,7 @@ public class CultivateGround : MonoBehaviour
 
                         playerAnimator.SetInteger("Herramienta", 2);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
 
                         plantWater.RestarAgua(0.1f,10);
 
@@ -134,26 +133,15 @@ public class CultivateGround : MonoBehaviour
 
                         playerAnimator.SetInteger("Herramienta", 2);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
 
                         plantWater.RestarAgua(0.75f,75);
-
-
                         break;
-
-
-
-
                 }
-
-
-
-
-
             }
             // Si se tienen los guantes seleccionados y el cultivo está en su última etapa, lo recoge. Se elimina el cultivo, volviendo a ser una zona arada.
             // Falta llamar al método que añade la comida a los huecos del inventario
-            else if (inventory.selectedSlot == 0 /*&& currentCell.GetComponent<FoodGrowing>().growthStage == 3*/)
+            else if (inventory.selectedSlot == 0 && currentCell.GetComponent<FoodGrowing>().growthStage == 3)
             {
                 switch (currentCell.tag)
                 {
@@ -164,7 +152,7 @@ public class CultivateGround : MonoBehaviour
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
                         PlayerController.Invoke("Detener", 0);
 
                         puntos += 30;
@@ -179,7 +167,7 @@ public class CultivateGround : MonoBehaviour
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
                         PlayerController.Invoke("Detener", 0);
 
                         puntos += 50;
@@ -193,7 +181,7 @@ public class CultivateGround : MonoBehaviour
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
                         PlayerController.Invoke("Detener", 0);
 
 
@@ -208,29 +196,15 @@ public class CultivateGround : MonoBehaviour
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
-                        Invoke("ResetAnimation", 2);
+                        Invoke("ResetAnimation", 1);
                         PlayerController.Invoke("Detener", 0);
 
                         puntos += 75;
                         textpuntos.text = puntos.ToString();
 
                         break;
-
-
                 }
             }
-           
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         }
     }
     
@@ -246,10 +220,6 @@ public class CultivateGround : MonoBehaviour
         // Evitamos que podamos realizar acciones fuera del área arable/cultivable
         if (other.CompareTag("Arable") || other.CompareTag("Plowed") || other.CompareTag("Seed") || other.CompareTag("Zanahoria") || other.CompareTag("Lechuga") || other.CompareTag("Patata") || other.CompareTag("Tomate"))
             currentCell = null;
-    
-    
-    
-    
     }
 
     private void ResetAnimation()
