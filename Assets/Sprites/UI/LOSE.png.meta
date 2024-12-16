@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: f7a344bf99c831742bbea16d61764075
+guid: 0a0cc80308f13da468e08e396d20cd67
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -511910793408786014
-    second: Ui 1_0
+      213: 3429200818150319290
+    second: LOSE_0
+  - first:
+      213: 6421309422620821815
+    second: LOSE_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ui 1_0
+      name: LOSE_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 6
+        y: 42
+        width: 145
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2a15e2a78d355e8f0800000000000000
-      internalID: -511910793408786014
+      spriteID: ab42455b9f7f69f20800000000000000
+      internalID: 3429200818150319290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOSE_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 43
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739ce28f5e21d1950800000000000000
+      internalID: 6421309422620821815
       vertices: []
       indices: 
       edges: []
@@ -125,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ui 1_0: -511910793408786014
+      LOSE_0: 3429200818150319290
+      LOSE_1: 6421309422620821815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
