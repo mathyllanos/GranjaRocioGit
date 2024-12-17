@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/InventoryScene.unity
-    guid: b540067802eb575459690e85ee4e303e
   - enabled: 1
     path: Assets/Scenes/Test_Cultivation_Code.unity
     guid: 1d147914fa4cb9f40a88172e782ed19a
