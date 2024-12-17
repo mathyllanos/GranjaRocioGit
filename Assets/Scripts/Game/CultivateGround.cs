@@ -32,9 +32,9 @@ public class CultivateGround : MonoBehaviour
             if (currentCell.CompareTag("Arable") && inventory.selectedSlot == 1)
             {
 
-                PlayerAnimator.Detente(2);
+                PlayerAnimator.Detente(1.1f);
 
-                PlayerController.Invoke("Detener", 0);
+                PlayerController.Detener(1f);
 
 
                 // Condiciones para que se ejecute la animación
@@ -48,10 +48,8 @@ public class CultivateGround : MonoBehaviour
             // Si ya está arado y se tienen los guantes seleccionados, se crea un terreno sembrado según la semilla que se haya recogido 
             else if (currentCell.CompareTag("Plowed") && inventory.selectedSlot == 0 && pickedSeed >= 0)
             {
-                PlayerController.Invoke("Detener", 0);
-
-                PlayerAnimator.Detente(2);
-
+                PlayerAnimator.Detente(1.8f);
+                PlayerController.Detener(2);
                 // Condiciones para que se ejecute la animación
                 playerAnimator.SetInteger("Herramienta", 0);
                 playerAnimator.SetBool("Interactuar", true);
@@ -64,9 +62,9 @@ public class CultivateGround : MonoBehaviour
             // Si es una caja de semillas y se tienen los guantes selccionados, recoge la semilla correspondiente
             else if (currentCell.CompareTag("Seed") && inventory.selectedSlot == 0)
             {
-                PlayerAnimator.Detente(2);
+                PlayerAnimator.Detente(1.8f);
 
-                PlayerController.Invoke("Detener", 0);
+                PlayerController.Detener(2);
 
                 // Condiciones para que se ejecute la animación
                 playerAnimator.SetInteger("Herramienta", 0);
@@ -83,8 +81,8 @@ public class CultivateGround : MonoBehaviour
                     case ("Zanahoria", >= 30):
 
 
-                        PlayerAnimator.Detente(2);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerAnimator.Detente(1.8f);
+                        PlayerController.Detener(2);
                         
                         currentCell.GetComponent<FoodGrowing>().currentWater += 30;
 
@@ -98,8 +96,8 @@ public class CultivateGround : MonoBehaviour
                         break;
                     case ("Lechuga", >= 50):
                         
-                        PlayerAnimator.Detente(2);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerAnimator.Detente(1.8f);
+                        PlayerController.Detener(2);
 
                         currentCell.GetComponent<FoodGrowing>().currentWater += 50;
 
@@ -112,8 +110,8 @@ public class CultivateGround : MonoBehaviour
                         break;
                     case ("Patata", >= 10):
                         
-                        PlayerAnimator.Detente(2);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerAnimator.Detente(1.8f);
+                        PlayerController.Detener(2);
 
                         currentCell.GetComponent<FoodGrowing>().currentWater += 10;
 
@@ -126,8 +124,8 @@ public class CultivateGround : MonoBehaviour
                         break;
                     case ("Tomate", >= 75):
 
-                        PlayerAnimator.Detente(2);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerAnimator.Detente(1.8f);
+                        PlayerController.Detener(2);
 
                         currentCell.GetComponent<FoodGrowing>().currentWater += 75;
 
@@ -148,12 +146,12 @@ public class CultivateGround : MonoBehaviour
                     case "Zanahoria":
                         Instantiate(plowedGroundPrefab, currentCell.transform.position, quaternion.identity);
 
-                        PlayerAnimator.Detente(2);
+                        PlayerAnimator.Detente(1.8f);
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
                         Invoke("ResetAnimation", 1);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerController.Detener(2);
 
                         puntos += 30;
                         textpuntos.text = puntos.ToString();
@@ -163,12 +161,12 @@ public class CultivateGround : MonoBehaviour
                     case "Lechuga":
                         Instantiate(plowedGroundPrefab, currentCell.transform.position, quaternion.identity);
 
-                        PlayerAnimator.Detente(2);
+                        PlayerAnimator.Detente(1.8f);
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
                         Invoke("ResetAnimation", 1);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerController.Detener(2);
 
                         puntos += 50;
                         textpuntos.text = puntos.ToString();
@@ -177,12 +175,12 @@ public class CultivateGround : MonoBehaviour
                     case "Patata":
                         Instantiate(plowedGroundPrefab, currentCell.transform.position, quaternion.identity);
 
-                        PlayerAnimator.Detente(2);
+                        PlayerAnimator.Detente(1.8f);
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
                         Invoke("ResetAnimation", 1);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerController.Detener(2);
 
 
                         puntos += 10;
@@ -192,12 +190,12 @@ public class CultivateGround : MonoBehaviour
                     case "Tomate":
                         Instantiate(plowedGroundPrefab, currentCell.transform.position, quaternion.identity);
                         
-                        PlayerAnimator.Detente(2);
+                        PlayerAnimator.Detente(1.8f);
                         Destroy(currentCell.gameObject);
                         playerAnimator.SetInteger("Herramienta", 0);
                         playerAnimator.SetBool("Interactuar", true);
                         Invoke("ResetAnimation", 1);
-                        PlayerController.Invoke("Detener", 0);
+                        PlayerController.Detener(2);
 
                         puntos += 75;
                         textpuntos.text = puntos.ToString();

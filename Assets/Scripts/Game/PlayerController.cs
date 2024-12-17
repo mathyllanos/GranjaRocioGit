@@ -10,9 +10,6 @@ using Input = UnityEngine.Input;
 
 public class PlayerController: MonoBehaviour
 {
-
-    
-
     //Variables
     private Rigidbody2D rb;
     public float speed = 5f;
@@ -28,29 +25,18 @@ public class PlayerController: MonoBehaviour
         _interactuando = false;
     }
 
-
-
-
-        public void Detener()
+        public void Detener( float numero)
         {
             _interactuando = true;
-            Invoke("RestaurarMovimiento", 2);
+            Invoke("RestaurarMovimiento", numero);
         }
-
-
-
-
-
-
-void Update()
+    void Update()
     {
         //Explicacion: Esta para es para detectar las teclas que detectan el mobimiento Horizontal y el movimiento Vertical.
         
         _input = new Vector2(UnityEngine.Input.GetAxisRaw("Horizontal"), UnityEngine.Input.GetAxisRaw("Vertical"));
         
         // Explicacion: Cons estos IF determinan cuando no esta quieto y cuando se estan desplazando.
-
-        
         
         if (!_interactuando)
         {
@@ -67,9 +53,6 @@ void Update()
                     y = false;
                 }
             }
-
-
-
 
             if (y == false)
             {
